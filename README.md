@@ -5,7 +5,6 @@ tags:
 - text-to-image
 ---
 # SD-XL 1.0-refiner Model Card
-
 ![row01](01.png)
 
 ## Model
